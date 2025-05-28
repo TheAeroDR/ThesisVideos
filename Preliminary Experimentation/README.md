@@ -3,7 +3,7 @@
 
 [Polystyrene beads rotated by handcrank](Horizontal Mixing/polystryene_handcrank.mp4)
 
-[Polystyrene beads rotated by handcrank](https://raw.githubusercontent.com/TheAeroDR/ThesisVideos/main/Preliminary%Experimentation/Horizontal%20Mixing/polystryene_motor.mp4)
+[Polystyrene beads rotated by handcrank](https://raw.githubusercontent.com/TheAeroDR/ThesisVideos/Preliminary%Experimentation/Horizontal%20Mixing/polystryene_motor.mp4)
 
 [Polystyrene beads rotated by handcrank in slow-motion](Horizontal Mixing/polystryene_slomo.mp4)
 
