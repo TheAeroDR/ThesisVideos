@@ -1,4 +1,4 @@
-[Polystyrene beads rotated by motor](Horizontal Mixing/polystryene_motor.mp4)
+[Polystyrene beads rotated by motor](Horizontal%Mixing/polystryene_motor.mp4)
 
 
 [Polystyrene beads rotated by handcrank](Horizontal Mixing/polystryene_handcrank.mp4)
