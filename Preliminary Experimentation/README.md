@@ -1,4 +1,6 @@
-[Polystyrene beads rotated by motor](Horizontal%Mixing/polystryene_motor.mp4)
+[Polystyrene beads rotated by motor](Horizontal%20Mixing/polystryene_motor.mp4)
+
+![Polystyrene motor preview](Horizontal%20Mixing/polystryene_motor.gif)
 
 
 [Polystyrene beads rotated by handcrank](Horizontal Mixing/polystryene_handcrank.mp4)
